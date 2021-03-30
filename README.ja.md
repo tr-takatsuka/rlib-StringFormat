@@ -15,7 +15,7 @@ boost::format を利用した型安全な文字列フォーマットです。C++
     std::unique_ptr std::shared_ptr std::optional
     std::array std::vector std::list std::deque std::initializer_list
     std::set std::multiset std::map std::multimap
-
++ VisualStudio(MSC) の CString にも対応しています。
 
 ## Requirement
 

@@ -1,6 +1,6 @@
 # printf-like formatting, using boost::format
 
-[ENGLISH](/README.md)
+[日本語](/README.ja.md)
 
 ## Description
 
@@ -15,6 +15,7 @@ A type-safe string format using boost::format. Implementation in C++17.
     std::unique_ptr std::shared_ptr std::optional
     std::array std::vector std::list std::deque std::initializer_list
     std::set std::multiset std::map std::multimap
++ It also supports CString for VisualStudio(MSC).
 
 
 ## Requirement
